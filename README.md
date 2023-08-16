@@ -1,6 +1,6 @@
 # 🖥️ 프로젝트 소개
 
-3Day 챌린지 Todolist 프로그램
+3Days 챌린지 Todolist 프로그램
 <br>
 
 ## 🕰️ 개발 기간
