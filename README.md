@@ -10,18 +10,20 @@
 ### 🧑‍🤝‍🧑 맴버구성
 
 - 팀장 : 김희연 -
-- 팀원1 : 김혜빈 -
-- 팀원2 : 박동민 -
+- 팀원1 : 김혜빈 - 
+- 팀원2 : 박동민 -  
 - 팀원3 : 안지현 -
 
 ### ⚙️ 개발 환경
 
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
+- `Python`
+- 
+- **IDE** : 
 - **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
+- **Database** : AWS DynamoDB
 - **ORM** : Mybatis
+## AWS 아키텍쳐
+<a href="">
 
 ## 📌 주요 기능
 
