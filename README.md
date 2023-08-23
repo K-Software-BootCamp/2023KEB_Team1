@@ -18,11 +18,10 @@
 ### ⚙️ 개발 환경
 
 - `Python`
-- 
+- `Kotlin`
 - **IDE** : 
 - **Framework** : Springboot(2.x)
 - **Database** : AWS DynamoDB
-- **ORM** : Mybatis
 ## AWS 아키텍쳐
 <a href="">
 
@@ -34,13 +33,11 @@
 
 #### 마이 페이지 - <a href="" >상세보기 - WIKI 이동</a>
 
-#### 영화 예매 - <a href="" >상세보기 - WIKI 이동</a>
-
 #### 메인 페이지 - <a href="" >상세보기 - WIKI 이동</a>
 
-#### 1대1문의 및 공지사항 - <a href="" >상세보기 - WIKI 이동</a>
+#### 친구 페이지 - <a href="" >상세보기 - WIKI 이동</a>
 
-#### 관리자 페이지
+#### 챌린지 확인
 
 ## Acknowledgement
 
