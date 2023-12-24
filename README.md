@@ -1,5 +1,6 @@
 # 🖥️ 프로젝트 소개
 
+<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/logo.png" width="20%">
 3Days 챌린지 Todolist 프로그램
 <br>
 <a href="https://github.com/project-serverless/Annotation_Team1" >작심3일</a>
@@ -7,7 +8,7 @@
 
 ## 🕰️ 개발 기간
 
-- 22.07.26일 - 22.08.23일
+22.07.26일 - 22.08.23일
 
 ## 🧑‍🤝‍🧑 맴버구성
 
@@ -34,23 +35,32 @@
    <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat square&logo=amazondynamodb&logoColor=white"/><br>
 
 ## AWS 아키텍쳐
-<img src="" width="100%">
+<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/aws%20architecture.png" width="70%">
 
 ## 📌 주요 기능
 
+## 로그인
 
-|<img src="" width="100%">|<img src="" width="100%">|
+|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/loading%20page.png" width="70%" height="70%">|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/login%20page.png" width="70%" height="70%">|
 |:--:|:--:|
 |로딩 화면|로그인 화면|
 
-|<img src="" width="100%">|<img src="" width="100%">|
+
+<br>
+
+## 회원가입
+
+|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/signup1%20page.png" width="70%" height="70%">|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/signup2%20page.png" width="70%" height="70%">|
 |:--:|:--:|
 |회원가입 화면1|회원가입 화면2|
 
+<br>
 
-|<img src="" width="100%">|<img src="" width="100%">|<img src="" width="100%">|
+## 메인 & 친구
+
+|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/main%20page.png" width="90%">|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/friendlist%20page.png" width="100%">|<img src="https://github.com/K-Software-BootCamp/2023KEB_Team1/blob/main/img/frienddetail%20page.png" width="100%">|
 |:--:|:--:|:--:|
-|메인 화|친구 목록 화면|친구 정보 화면|
+|메인 화면|친구 목록 화면|친구 정보 화면|
 ## Acknowledgement
 
 ```
